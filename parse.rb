@@ -5,8 +5,61 @@
 #
 # The CSV file is converted by Numbers from Apple
 
+require 'smarter_csv'
 
-=begin
-creek.sheets.each do |s|
+NEW_LINE_HOLDER = '|unique_holder|'
+
+# Assume there's no quote within quote, e.g.: '"\"invalid"'
+def replace_new_line_in_quote(content)
+  stack = []
+
+  rs = StringIO.new
+  content.chars.each do |c|
+    if c == '"'
+      if stack.empty?
+        stack << c
+      else
+        stack.pop
+      end
+    end
+
+    # TODO: parse as \n\r
+    if (c =~ /[\n\r]/) and (!stack.empty?)
+      rs << NEW_LINE_HOLDER
+    else
+      rs << c
+    end
+  end
+  rs.string
 end
-=end
+
+require 'tempfile'
+def read_csv(file_path)
+  replaced_quote_str = replace_new_line_in_quote(File.open(file_path).read)
+  
+  tf = Tempfile.new('smarter_csv')
+  tf.write(replaced_quote_str)
+  tf.close
+  
+  SmarterCSV.process(tf.path)
+end
+
+def replace_new_line_back(ele)
+  r = {}
+  ele.each do |k, v|
+    nk = k.to_s.gsub(NEW_LINE_HOLDER, "_")
+    r[nk] = (v.instance_of? String) ? v.gsub(NEW_LINE_HOLDER, "\n") : v 
+  end
+  r
+end
+
+
+require 'json'
+
+rows = []
+Dir.glob('csvs/*.csv').each do |file_path|
+  raw_data = read_csv(file_path)
+  rows += raw_data.map {|e| replace_new_line_back(e) }
+end
+
+puts JSON.pretty_generate(rows)
