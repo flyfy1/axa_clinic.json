@@ -5,12 +5,6 @@ function initMap() {
     zoom: 12
   });
 
-  var marker = new google.maps.Marker({
-    position: {lat: 1.3655744, lng: 103.8132874},
-    map: map,
-    title: 'Some Random Marker'
-  });
-  
   fetch('clinics.json').then(function(r){ return r.json(); }).then(function(r){
     r.forEach(function(o){
       var loc = o.location;
@@ -41,5 +35,3 @@ function initMap() {
     });
   });
 }
-
-console.log('it works')
