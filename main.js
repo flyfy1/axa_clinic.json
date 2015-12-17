@@ -11,7 +11,7 @@ function initMap() {
     title: 'Some Random Marker'
   });
   
-  fetch('/clinics.json').then(function(r){ return r.json(); }).then(function(r){
+  fetch('clinics.json').then(function(r){ return r.json(); }).then(function(r){
     r.forEach(function(o){
       var loc = o.location;
       if(!loc.lat) return;
