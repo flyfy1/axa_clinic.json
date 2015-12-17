@@ -10,7 +10,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM  \n2.00PM-4.15PM",
     "sat": "8.30AM-10.15AM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.277325,
+      "lng": 103.800274
+    }
   },
   {
     "area": "ALJUNIED",
@@ -24,7 +28,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Christmas and Chinese New Year's Day"
+    "remarks": "Closed on Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.334119,
+      "lng": 103.879544
+    }
   },
   {
     "area": "ALJUNIED",
@@ -37,7 +45,11 @@
     "operating_hours_mon___fri": "9.00AM-12.00PM   \n2.00PM-5.00PM",
     "sat": "9.00AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.31291,
+      "lng": 103.88136
+    }
   },
   {
     "area": "ALJUNIED",
@@ -51,7 +63,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "9.30AM-12.00PM",
     "public_holiday": "9.30AM-12.00PM",
-    "remarks": "TEMPORARY  CLOSURE FROM 20-25 OCTOBER\n2015."
+    "remarks": "TEMPORARY  CLOSURE FROM 20-25 OCTOBER\n2015.",
+    "location": {
+      "lat": 1.321563,
+      "lng": 103.886362
+    }
   },
   {
     "area": "ALJUNIED",
@@ -64,7 +80,11 @@
     "operating_hours_mon___fri": "7.00AM-1.00PM,\n6.00PM-12.00AM",
     "sat": "7.00AM-1.00PM,\n6.00PM-12.00AM",
     "sun": "7.00AM-1.00PM,\n6.00PM-12.00AM",
-    "public_holiday": "7.00AM-1.00PM,\n6.00PM-12.00AM"
+    "public_holiday": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "location": {
+      "lat": 1.323564,
+      "lng": 103.88585
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -78,7 +98,11 @@
     "sat": "9.00AM-12.00PM,\n2.00PM-5.00PM,\n6.00PM-10.00PM",
     "sun": "2.00PM-7.00PM",
     "public_holiday": "SELECTED",
-    "remarks": "LAST REGISTRATION HALF HOUR BEFORE CLOSING."
+    "remarks": "LAST REGISTRATION HALF HOUR BEFORE CLOSING.",
+    "location": {
+      "lat": 1.369149,
+      "lng": 103.847207
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -91,7 +115,11 @@
     "operating_hours_mon___fri": "8.45AM-12.30PM   \n2.00PM-4.30PM   \n6.45PM-8.30PM",
     "sat": "8.45AM-12.00PM",
     "sun": "8.45AM-12.00PM",
-    "public_holiday": "8.45AM-12.00PM"
+    "public_holiday": "8.45AM-12.00PM",
+    "location": {
+      "lat": 1.371119,
+      "lng": 103.838173
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -104,7 +132,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.30PM-6.00PM   \n7.00PM-9.00PM (ONLY ON MON EVENING)  \nFRI: \n8.30AM-12.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.37526,
+      "lng": 103.839382
+    }
   },
   {
     "area": "CLEMENTI",
@@ -117,7 +149,11 @@
     "operating_hours_mon___fri": "8.30AM-12.15PM   \n2.00PM-4.15PM   \n6.30PM-8.15PM",
     "sat": "8.30AM-12.15PM",
     "sun": "9.00AM-12.15PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.302909,
+      "lng": 103.763786
+    }
   },
   {
     "area": "CLEMENTI",
@@ -130,7 +166,11 @@
     "operating_hours_mon___fri": "24 HOURS",
     "sat": "24 HOURS",
     "sun": "24 HOURS",
-    "public_holiday": "24 HOURS"
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.313578,
+      "lng": 103.765368
+    }
   },
   {
     "area": "CLEMENTI",
@@ -143,7 +183,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "10.30AM-10.00PM",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.312444,
+      "lng": 103.764777
+    }
   },
   {
     "area": "COMMONWEA LTH",
@@ -156,7 +200,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n1.30PM-5.00PM,\n6.30PM-9.00PM",
     "sat": "9.00AM-2.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.302208,
+      "lng": 103.797717
+    }
   },
   {
     "area": "DOVER",
@@ -169,7 +217,11 @@
     "operating_hours_mon___fri": "8.30AM-5.00PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-2.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.304381,
+      "lng": 103.781952
+    }
   },
   {
     "area": "DOVER",
@@ -182,7 +234,11 @@
     "operating_hours_mon___fri": "8.30AM-5.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.296167,
+      "lng": 103.787009
+    }
   },
   {
     "area": "DOVER",
@@ -195,7 +251,11 @@
     "operating_hours_mon___fri": "9.00AM-5.30PM",
     "sat": "9.00AM-4.00PM",
     "sun": "9.00AM-11.30AM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.307379,
+      "lng": 103.784569
+    }
   },
   {
     "area": "EAST COAST",
@@ -208,7 +268,11 @@
     "operating_hours_mon___fri": "9.15AM-12.15PM   \n2.30PM-4.15PM   \n7.00PM-8.30PM",
     "sat": "9.15AM-12.15PM",
     "sun": "9.15AM-12.15PM",
-    "public_holiday": "9.15AM-12.15PM"
+    "public_holiday": "9.15AM-12.15PM",
+    "location": {
+      "lat": 1.3116969,
+      "lng": 103.922154
+    }
   },
   {
     "area": "EAST COAST",
@@ -221,7 +285,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-5.00PM (CLOSED ON WED AFTERNOON)",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.311679,
+      "lng": 103.92209
+    }
   },
   {
     "area": "EAST COAST",
@@ -235,7 +303,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "CLOSED ON CHRISTMAS  AND CHINESE NEW YEAR'S DAY. \nLAST REGISTRATION IS\n30MINS BEFORE CLOSING TIME."
+    "remarks": "CLOSED ON CHRISTMAS  AND CHINESE NEW YEAR'S DAY. \nLAST REGISTRATION IS\n30MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.313281,
+      "lng": 103.92879
+    }
   },
   {
     "area": "EAST COAST",
@@ -247,7 +319,11 @@
     "operating_hours_mon___fri": "9.00AM-4.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.303746,
+      "lng": 103.901182
+    }
   },
   {
     "area": "EAST COAST",
@@ -260,7 +336,11 @@
     "operating_hours_mon___fri": "MON/TUE/THU/FRI:\n8.30AM-3.00PM,\n6.30PM-8.30PM (CLOSED FRI NIGHT) WED: 8.30AM-\n12.30PM, 6.30PM-\n8.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.297985,
+      "lng": 103.894436
+    }
   },
   {
     "area": "FARRER",
@@ -273,7 +353,11 @@
     "operating_hours_mon___fri": "8.30AM-11.45AM   \n2.00PM-3.45PM   \n7.00PM-8.30PM",
     "sat": "8.30AM-11.45AM",
     "sun": "8.30AM-11.45AM",
-    "remarks": "Closed on Chinese New Year's Day, Christmas, New Year's Day's Day & National Day"
+    "remarks": "Closed on Chinese New Year's Day, Christmas, New Year's Day's Day & National Day",
+    "location": {
+      "lat": 1.317179,
+      "lng": 103.806296
+    }
   },
   {
     "area": "GEYLANG",
@@ -286,7 +370,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM\n \n7.00PM-9.00PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.317801,
+      "lng": 103.880004
+    }
   },
   {
     "area": "GEYLANG",
@@ -299,7 +387,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON FRI NIGHT)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.317613,
+      "lng": 103.8793589
+    }
   },
   {
     "area": "HARBOURFRO NT",
@@ -312,7 +404,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.26448,
+      "lng": 103.818704
+    }
   },
   {
     "area": "HARBOURFRO NT",
@@ -325,7 +421,11 @@
     "operating_hours_mon___fri": "8.30AM-6.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
     "sat": "9.30AM-12.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.265267,
+      "lng": 103.818927
+    }
   },
   {
     "area": "HOLLAND",
@@ -339,7 +439,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "- PATIENT TO ARRIVE AT LEAST 15 MINS BEFORE CLOSING. \n- TEMPORARY CLOSURE FROM 7-16\nNOVEMBER  2015."
+    "remarks": "- PATIENT TO ARRIVE AT LEAST 15 MINS BEFORE CLOSING. \n- TEMPORARY CLOSURE FROM 7-16\nNOVEMBER  2015.",
+    "location": {
+      "lat": 1.307571,
+      "lng": 103.793427
+    }
   },
   {
     "area": "HOLLAND",
@@ -353,7 +457,11 @@
     "sat": "8.00AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "FOR OCT14-DEC14\nSOME OF THE DAY THERE WILL BE NO LOCUM DOCTOR, PLEASE CALL CLINIC TO CHECK."
+    "remarks": "FOR OCT14-DEC14\nSOME OF THE DAY THERE WILL BE NO LOCUM DOCTOR, PLEASE CALL CLINIC TO CHECK.",
+    "location": {
+      "lat": 1.307571,
+      "lng": 103.793427
+    }
   },
   {
     "area": "HOLLAND",
@@ -366,7 +474,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-8.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.320431,
+      "lng": 103.778992
+    }
   },
   {
     "area": "HOLLAND",
@@ -379,7 +491,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.00PM-8.00PM (CLOSED ON TUE/THU EVENINGS)",
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.308583,
+      "lng": 103.792897
+    }
   },
   {
     "area": "HOLLAND",
@@ -391,7 +507,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM,\n6.00PM-9.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "6.00PM-9.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.307083,
+      "lng": 103.796985
+    }
   },
   {
     "area": "HOUGANG",
@@ -405,7 +525,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Wed. Remarks: Clinic very crowded"
+    "remarks": "Closed on Wed. Remarks: Clinic very crowded",
+    "location": {
+      "lat": 1.371823,
+      "lng": 103.893725
+    }
   },
   {
     "area": "HOUGANG",
@@ -418,7 +542,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-8.30PM (CLOSED ON FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.374913,
+      "lng": 103.884238
+    }
   },
   {
     "area": "HOUGANG",
@@ -431,7 +559,11 @@
     "operating_hours_mon___fri": "9.00AM-12.00PM   \n6.00PM-8.00PM (CLOSED ON WED EVENING)",
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.371823,
+      "lng": 103.893725
+    }
   },
   {
     "area": "HOUGANG",
@@ -444,7 +576,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM \n2.00PM-5.00PM (CLOSED ON TUE/WED AFTERNOON)  \n7.00PM-9.00PM (CLOSED ON THU/FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.353777,
+      "lng": 103.890572
+    }
   },
   {
     "area": "HOUGANG",
@@ -457,7 +593,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM\n \n6.30PM-9.30PM",
     "sun": "8.30AM-12.30PM\n \n6.30PM-9.30PM",
-    "public_holiday": "8.30AM-12.30PM\n \n6.30PM-9.30PM"
+    "public_holiday": "8.30AM-12.30PM\n \n6.30PM-9.30PM",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
   },
   {
     "area": "HOUGANG",
@@ -470,7 +610,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
     "sat": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
     "sun": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
-    "public_holiday": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM"
+    "public_holiday": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "location": {
+      "lat": 1.376022,
+      "lng": 103.879482
+    }
   },
   {
     "area": "HOUGANG",
@@ -483,7 +627,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.30PM-5.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.365636,
+      "lng": 103.894723
+    }
   },
   {
     "area": "HOUGANG",
@@ -496,7 +644,11 @@
     "operating_hours_mon___fri": "9.00AM-12.00PM  \n2.00PM-3.45PM   \n6.00PM-8.30PM (CLOSED ON WED/FRI EVENING)",
     "sat": "9.00AM-11.30PM",
     "sun": "CLOSED",
-    "public_holiday": "SELECTED"
+    "public_holiday": "SELECTED",
+    "location": {
+      "lat": 1.354793,
+      "lng": 103.890305
+    }
   },
   {
     "area": "HOUGANG",
@@ -509,7 +661,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n7.00PM-8.30PM (CLOSED TUE/WED/THU NIGHT)",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
   },
   {
     "area": "HOUGANG",
@@ -522,7 +678,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM (CLOSED ON FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
   },
   {
     "area": "HOUGANG",
@@ -535,7 +695,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON FRI NIGHT)",
     "sat": "9.00AM-12.30PM",
     "sun": "10.00AM-12.00PM (PLS CALL BEFORE CONSULTATION)",
-    "public_holiday": "10.00AM-12.00PM (PLS CALL BEFORE CONSULTATION)"
+    "public_holiday": "10.00AM-12.00PM (PLS CALL BEFORE CONSULTATION)",
+    "location": {
+      "lat": 1.358853,
+      "lng": 103.884919
+    }
   },
   {
     "area": "HOUGANG",
@@ -548,7 +712,11 @@
     "operating_hours_mon___fri": "8.30AM-3.30PM   \n6.30PM-9.30PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-1.00PM   \n7.00PM-9.00PM",
-    "public_holiday": "9.00AM-1.00PM"
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
   },
   {
     "area": "HOUGANG",
@@ -561,7 +729,11 @@
     "operating_hours_mon___fri": "24 HOURS",
     "sat": "24 HOURS",
     "sun": "24 HOURS",
-    "public_holiday": "24 HOURS"
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
   },
   {
     "area": "HOUGANG",
@@ -574,7 +746,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.30PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.37148,
+      "lng": 103.881255
+    }
   },
   {
     "area": "HOUGANG",
@@ -587,7 +763,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-10.00PM",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.354793,
+      "lng": 103.890305
+    }
   },
   {
     "area": "HOUGANG",
@@ -600,7 +780,11 @@
     "operating_hours_mon___fri": "12.30PM-4.30PM,\n7.30PM-9.30PM",
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.378798,
+      "lng": 103.895177
+    }
   },
   {
     "area": "JURONG",
@@ -613,7 +797,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n1.00PM-5.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.350092,
+      "lng": 103.719126
+    }
   },
   {
     "area": "JURONG",
@@ -626,7 +814,11 @@
     "operating_hours_mon___fri": "MON/WED/THU:\n8.30AM-8.30PM TUE/FRI: 8.30AM-\n5.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.341514,
+      "lng": 103.690502
+    }
   },
   {
     "area": "JURONG",
@@ -639,7 +831,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM\n \n6.30PM-9.00PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM\n \n6.30PM-9.00PM"
+    "public_holiday": "8.30AM-12.30PM\n \n6.30PM-9.00PM",
+    "location": {
+      "lat": 1.341406,
+      "lng": 103.691314
+    }
   },
   {
     "area": "JURONG",
@@ -652,7 +848,11 @@
     "operating_hours_mon___fri": "MON/TUE: 8.00AM-\n2.30PM, 6.30PM-\n10.00PM   WED:\n8.00AM-12.00PM,\n3.00PM-5.30PM,\n6.30PM-10.30PM THU/FRI: 8.00AM-\n12.00PM, 2.30PM-\n4.30PM, 6.30PM-\n10.00PM",
     "sat": "8.00AM-12.00PM",
     "sun": "8.00AM-12.00PM,\n7.00PM-10.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.337112,
+      "lng": 103.697111
+    }
   },
   {
     "area": "JURONG",
@@ -666,7 +866,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM\n \n7.00PM-9.30PM",
     "public_holiday": "8.30AM-12.30PM\n \n7.00PM-9.30PM",
-    "remarks": "OPEN ON THE 1ST &\n3RD SUNDAY MORNINGS OF THE MONTH"
+    "remarks": "OPEN ON THE 1ST &\n3RD SUNDAY MORNINGS OF THE MONTH",
+    "location": {
+      "lat": 1.350203,
+      "lng": 103.724268
+    }
   },
   {
     "area": "JURONG",
@@ -679,7 +883,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON FRI NIGHT)",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "8.30AM-12.00PM"
+    "public_holiday": "8.30AM-12.00PM",
+    "location": {
+      "lat": 1.341514,
+      "lng": 103.690502
+    }
   },
   {
     "area": "JURONG",
@@ -692,7 +900,11 @@
     "operating_hours_mon___fri": "8.30AM-2.00PM,\n6.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.345807,
+      "lng": 103.719694
+    }
   },
   {
     "area": "JURONG EAST",
@@ -706,7 +918,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "CLINIC TEMPORARY CLOSURE ON JUNE\n2015, ONLY OPEN ON CERTAIN SHIFT KINDLY CALL CLINIC BEFORE CONSULTATION."
+    "remarks": "CLINIC TEMPORARY CLOSURE ON JUNE\n2015, ONLY OPEN ON CERTAIN SHIFT KINDLY CALL CLINIC BEFORE CONSULTATION.",
+    "location": {
+      "lat": 1.334023,
+      "lng": 103.738849
+    }
   },
   {
     "area": "JURONG EAST",
@@ -719,7 +935,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.00PM   \n6.00PM-9.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "9.00AM-12.30PM"
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.334713,
+      "lng": 103.739339
+    }
   },
   {
     "area": "JURONG EAST",
@@ -732,7 +952,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n7.00PM-9.30PM",
     "sat": "8.30AM-12.30PM\n \n7.00PM-9.00PM",
     "sun": "7.00PM-9.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336586,
+      "lng": 103.737616
+    }
   },
   {
     "area": "JURONG EAST",
@@ -745,7 +969,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336506,
+      "lng": 103.751747
+    }
   },
   {
     "area": "JURONG WEST",
@@ -759,7 +987,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at clinic at least 30 mins before closing"
+    "remarks": "Patient to arrive at clinic at least 30 mins before closing",
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    }
   },
   {
     "area": "JURONG WEST",
@@ -772,7 +1004,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-6.15PM   \n7.00PM-12.00AM",
     "sat": "8.30AM-12.30PM  \n7.00PM-12.00AM",
     "sun": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
-    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-11.00PM"
+    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "location": {
+      "lat": 1.341328,
+      "lng": 103.706779
+    }
   },
   {
     "area": "JURONG WEST",
@@ -784,7 +1020,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.30PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON WED NIGHT)",
     "sat": "9.00AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.351884,
+      "lng": 103.7245
+    }
   },
   {
     "area": "JURONG WEST",
@@ -797,7 +1037,11 @@
     "operating_hours_mon___fri": "MON/TUE/WED/FRI\n: \n8.30AM-5.00PM   \n6.30PM-9.00PM    THU: \n8.30AM-4.30PM",
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.345407,
+      "lng": 103.697774
+    }
   },
   {
     "area": "JURONG WEST",
@@ -810,7 +1054,11 @@
     "operating_hours_mon___fri": "8.30AM-3.30PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.35363,
+      "lng": 103.703748
+    }
   },
   {
     "area": "JURONG WEST",
@@ -824,7 +1072,11 @@
     "sat": "8.30AM-12.00AM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "#NAME?"
+    "remarks": "#NAME?",
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    }
   },
   {
     "area": "JURONG WEST",
@@ -837,7 +1089,11 @@
     "operating_hours_mon___fri": "24-HOURS",
     "sat": "24-HOURS",
     "sun": "24-HOURS",
-    "public_holiday": "24-HOURS"
+    "public_holiday": "24-HOURS",
+    "location": {
+      "lat": 1.350203,
+      "lng": 103.724268
+    }
   },
   {
     "area": "JURONG WEST",
@@ -851,7 +1107,11 @@
     "sat": "CLOSED",
     "sun": "2.00PM-6.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION IS\n15MINS BEFORE CLOSING TIME"
+    "remarks": "LAST REGISTRATION IS\n15MINS BEFORE CLOSING TIME",
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    }
   },
   {
     "area": "JURONG WEST",
@@ -864,7 +1124,11 @@
     "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.00PM-4.00PM,\n7.00PM-9.00PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.347625,
+      "lng": 103.717001
+    }
   },
   {
     "area": "KALLANG",
@@ -877,7 +1141,11 @@
     "operating_hours_mon___fri": "8.00AM-12.00PM \n2.30PM-4.00PM  \n7.00PM-9.00PM",
     "sat": "8.30AM-11.30AM",
     "sun": "8.30AM-11.30AM",
-    "public_holiday": "8.30AM-11.30AM"
+    "public_holiday": "8.30AM-11.30AM",
+    "location": {
+      "lat": 1.307519,
+      "lng": 103.884504
+    }
   },
   {
     "area": "KALLANG",
@@ -891,7 +1159,11 @@
     "sat": "8.00AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Wed nights"
+    "remarks": "Closed on Wed nights",
+    "location": {
+      "lat": 1.320065,
+      "lng": 103.869493
+    }
   },
   {
     "area": "KALLANG",
@@ -904,7 +1176,11 @@
     "operating_hours_mon___fri": "1.00PM-5.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "1.00PM-3.00PM",
-    "public_holiday": "1.00PM-3.00PM"
+    "public_holiday": "1.00PM-3.00PM",
+    "location": {
+      "lat": 1.322958,
+      "lng": 103.869896
+    }
   },
   {
     "area": "KALLANG",
@@ -917,7 +1193,11 @@
     "operating_hours_mon___fri": "9.30AM-12.30PM,\n2.30PM-5.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3023579,
+      "lng": 103.876445
+    }
   },
   {
     "area": "KALLANG",
@@ -931,7 +1211,11 @@
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.307846,
+      "lng": 103.884919
+    }
   },
   {
     "area": "KALLANG",
@@ -944,7 +1228,9 @@
     "operating_hours_mon___fri": "9.30AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "KEMBANGAN",
@@ -958,7 +1244,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Fri nights."
+    "remarks": "Closed on Fri nights.",
+    "location": {
+      "lat": 1.323791,
+      "lng": 103.910782
+    }
   },
   {
     "area": "LAVENDER",
@@ -971,7 +1261,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.00PM-8.00PM (CLOSED ON WED & FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.307798,
+      "lng": 103.8608749
+    }
   },
   {
     "area": "LAVENDER",
@@ -984,7 +1278,11 @@
     "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.00PM-4.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.303499,
+      "lng": 103.861257
+    }
   },
   {
     "area": "LITTLE INDIA",
@@ -997,7 +1295,11 @@
     "operating_hours_mon___fri": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.30PM-9.30PM",
     "sat": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.30PM-9.30PM",
     "sun": "10.00AM-1.00PM\n \n2.00PM-5.00PM   \n6.30PM-9.30PM",
-    "public_holiday": "10.00AM-1.00PM\n \n2.00PM-5.00PM   \n6.30PM-9.30PM"
+    "public_holiday": "10.00AM-1.00PM\n \n2.00PM-5.00PM   \n6.30PM-9.30PM",
+    "location": {
+      "lat": 1.307745,
+      "lng": 103.851086
+    }
   },
   {
     "area": "LITTLE INDIA",
@@ -1011,7 +1313,11 @@
     "sat": "8.30AM-12.30PM\n \n1.00PM-4.30PM",
     "sun": "1.00PM-5.00PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Fri nights"
+    "remarks": "Closed on Fri nights",
+    "location": {
+      "lat": 1.305672,
+      "lng": 103.850873
+    }
   },
   {
     "area": "LITTLE INDIA",
@@ -1024,7 +1330,11 @@
     "operating_hours_mon___fri": "2.00PM-10.00PM",
     "sat": "2.00PM-10.00PM",
     "sun": "2.00PM-10.00PM",
-    "public_holiday": "2.00PM-10.00PM"
+    "public_holiday": "2.00PM-10.00PM",
+    "location": {
+      "lat": 1.309344,
+      "lng": 103.854667
+    }
   },
   {
     "area": "MACPHERSON",
@@ -1037,7 +1347,11 @@
     "operating_hours_mon___fri": "8.30AM-3.00PM   \n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.328989,
+      "lng": 103.886929
+    }
   },
   {
     "area": "MARINA BAY",
@@ -1050,7 +1364,11 @@
     "operating_hours_mon___fri": "8.00AM-1.00PM,\n2.00PM-5.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.280783,
+      "lng": 103.85265
+    }
   },
   {
     "area": "MARINE PARADE",
@@ -1063,7 +1381,11 @@
     "operating_hours_mon___fri": "MON-FRI: 9.00AM-\n12.30PM   MON- THU: 2.30PM-\n4.30PM   MON & WED: 7.00PM-\n9.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.306093,
+      "lng": 103.9137329
+    }
   },
   {
     "area": "MARINE PARADE",
@@ -1076,7 +1398,11 @@
     "operating_hours_mon___fri": "7.00AM-12.00AM",
     "sat": "7.00AM-12.00AM",
     "sun": "7.00AM-12.00AM",
-    "public_holiday": "7.00AM-12.00AM"
+    "public_holiday": "7.00AM-12.00AM",
+    "location": {
+      "lat": 1.30286,
+      "lng": 103.907111
+    }
   },
   {
     "area": "MARINE PARADE",
@@ -1089,7 +1415,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n6.00PM-9.00PM",
     "sat": "8.30AM-12.30PM,\n2.00PM-5.00PM",
     "sun": "8.30AM-12.30PM,\n2.00PM-5.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.302638,
+      "lng": 103.905569
+    }
   },
   {
     "area": "MARINE PARADE",
@@ -1103,7 +1433,11 @@
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Fri nights"
+    "remarks": "Closed on Fri nights",
+    "location": {
+      "lat": 1.30588,
+      "lng": 103.914506
+    }
   },
   {
     "area": "NORTH BRIDGE",
@@ -1117,7 +1451,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at clinic at least 30mins before closing"
+    "remarks": "Patient to arrive at clinic at least 30mins before closing",
+    "location": {
+      "lat": 1.294149,
+      "lng": 103.852807
+    }
   },
   {
     "area": "NOVENA",
@@ -1131,7 +1469,11 @@
     "sat": "10.00AM-2.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Please make an appointment  before visit."
+    "remarks": "Please make an appointment  before visit.",
+    "location": {
+      "lat": 1.321061,
+      "lng": 103.844476
+    }
   },
   {
     "area": "ORCHARD",
@@ -1144,7 +1486,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3052919,
+      "lng": 103.830378
+    }
   },
   {
     "area": "ORCHARD",
@@ -1157,7 +1503,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM  \n2.00PM-5.30PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.301793,
+      "lng": 103.840857
+    }
   },
   {
     "area": "ORCHARD",
@@ -1170,7 +1520,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-5.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.298146,
+      "lng": 103.8441579
+    }
   },
   {
     "area": "ORCHARD",
@@ -1184,7 +1538,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at clinic at least 30mins before closing"
+    "remarks": "Patient to arrive at clinic at least 30mins before closing",
+    "location": {
+      "lat": 1.298048,
+      "lng": 103.844577
+    }
   },
   {
     "area": "ORCHARD",
@@ -1197,7 +1555,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at least 30mins before closing"
+    "remarks": "Patient to arrive at least 30mins before closing",
+    "location": {
+      "lat": 1.302707,
+      "lng": 103.834289
+    }
   },
   {
     "area": "ORCHARD",
@@ -1210,7 +1572,11 @@
     "operating_hours_mon___fri": "8.00AM-9.00PM",
     "sat": "9.00AM-2.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.2921149,
+      "lng": 103.84128
+    }
   },
   {
     "area": "ORCHARD",
@@ -1223,7 +1589,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-6.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3052919,
+      "lng": 103.830378
+    }
   },
   {
     "area": "ORCHARD",
@@ -1236,7 +1606,11 @@
     "operating_hours_mon___fri": "8.30AM-5.00PM",
     "sat": "8.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.30451,
+      "lng": 103.836184
+    }
   },
   {
     "area": "ORCHARD",
@@ -1250,7 +1624,11 @@
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at least 15mins before closing."
+    "remarks": "Patient to arrive at least 15mins before closing.",
+    "location": {
+      "lat": 1.292157,
+      "lng": 103.842684
+    }
   },
   {
     "area": "ORCHARD",
@@ -1263,7 +1641,11 @@
     "operating_hours_mon___fri": "8.00AM-9.00PM",
     "sat": "8.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.306595,
+      "lng": 103.831788
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1276,7 +1658,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.00PM,\n6.00PM-9.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.372567,
+      "lng": 103.950162
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1289,7 +1675,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-5.00PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.378441,
+      "lng": 103.94193
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1302,7 +1692,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.00PM-9.00PM",
     "sat": "8.30AM-12.30PM\n \n6.00PM-9.00PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.3703669,
+      "lng": 103.957523
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1315,7 +1709,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM  \n2.00PM-5.00PM",
     "sat": "9.00AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38403,
+      "lng": 103.970452
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1329,7 +1727,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "7.00PM-9.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "#NAME?"
+    "remarks": "#NAME?",
+    "location": {
+      "lat": 1.367095,
+      "lng": 103.964726
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1342,7 +1744,11 @@
     "operating_hours_mon___fri": "9.30AM-9.00PM",
     "sat": "11.00AM-4.00PM",
     "sun": "CLOSED",
-    "remarks": "Wed & Fri only open in the morning"
+    "remarks": "Wed & Fri only open in the morning",
+    "location": {
+      "lat": 1.378441,
+      "lng": 103.94193
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1355,7 +1761,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.379692,
+      "lng": 103.936062
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1368,7 +1778,11 @@
     "operating_hours_mon___fri": "24 HOURS",
     "sat": "24 HOURS",
     "sun": "24 HOURS",
-    "public_holiday": "24 HOURS"
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.3703669,
+      "lng": 103.957523
+    }
   },
   {
     "area": "PASIR RIS",
@@ -1381,7 +1795,9 @@
     "operating_hours_mon___fri": "8.00AM-3.00PM,\n6.00PM-9.00PM",
     "sat": "8.00AM-1.00PM",
     "sun": "8.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "PAYA LEBAR",
@@ -1394,7 +1810,11 @@
     "operating_hours_mon___fri": "9.00AM-3.00PM,\n6.00PM-9.00PM (CLOSED ON FRI & SAT NIGHT)",
     "sat": "9.00AM-1.00PM",
     "sun": "6.00PM-9.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.313243,
+      "lng": 103.895793
+    }
   },
   {
     "area": "PAYA LEBAR",
@@ -1407,7 +1827,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.340096,
+      "lng": 103.885049
+    }
   },
   {
     "area": "PAYA LEBAR",
@@ -1420,7 +1844,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM",
     "sat": "8.30AM-12.30PM,\n2.00PM-4.00PM",
     "sun": "8.30AM-11.30AM",
-    "public_holiday": "8.30AM-11.00AM"
+    "public_holiday": "8.30AM-11.00AM",
+    "location": {
+      "lat": 1.338801,
+      "lng": 103.8861639
+    }
   },
   {
     "area": "PAYA LEBAR",
@@ -1433,7 +1861,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.318938,
+      "lng": 103.8926112
+    }
   },
   {
     "area": "POTONG PASIR",
@@ -1447,7 +1879,11 @@
     "sat": "8.30AM-12.00PM\n \n2.00PM-4.30PM",
     "sun": "CLOSED",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "CLOSED ON WED-SAT EVENING"
+    "remarks": "CLOSED ON WED-SAT EVENING",
+    "location": {
+      "lat": 1.334079,
+      "lng": 103.866477
+    }
   },
   {
     "area": "POTONG PASIR",
@@ -1460,7 +1896,11 @@
     "operating_hours_mon___fri": "MON-THU: 8.30AM-\n1.00PM, 5.30PM-\n9.30PM   FRI:\n8.30AM-1.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.332627,
+      "lng": 103.867766
+    }
   },
   {
     "area": "PUNGGOL",
@@ -1473,7 +1913,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.30PM,\n6.00PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM (CALL TO CONFIRM)"
+    "public_holiday": "8.30AM-12.30PM (CALL TO CONFIRM)",
+    "location": {
+      "lat": 1.402247,
+      "lng": 103.901371
+    }
   },
   {
     "area": "PUNGGOL",
@@ -1486,7 +1930,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "8.30AM-12.00PM"
+    "public_holiday": "8.30AM-12.00PM",
+    "location": {
+      "lat": 1.396765,
+      "lng": 103.908576
+    }
   },
   {
     "area": "PUNGGOL",
@@ -1500,7 +1948,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-1.00PM",
     "public_holiday": "8.30AM-1.00PM",
-    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING OR EARLIER THAN AS STATED IF REACHED THE MAXIMUM NUMBER OF PATIENTS THAT CAN BE ACCEPTED  FOR THAT SESSION."
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING OR EARLIER THAN AS STATED IF REACHED THE MAXIMUM NUMBER OF PATIENTS THAT CAN BE ACCEPTED  FOR THAT SESSION.",
+    "location": {
+      "lat": 1.405158,
+      "lng": 103.901997
+    }
   },
   {
     "area": "PUNGGOL",
@@ -1512,7 +1964,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM",
     "sat": "8.30AM-1.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.402966,
+      "lng": 103.910372
+    }
   },
   {
     "area": "PUNGGOL",
@@ -1525,7 +1981,9 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.30PM-4.30PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "QUEENSTOW N",
@@ -1538,7 +1996,11 @@
     "operating_hours_mon___fri": "8.00AM-3.00PM   \n6.00PM-9.00PM (CLOSED ON THU EVENINGS)",
     "sat": "8.00AM-12.00PM",
     "sun": "8.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.292802,
+      "lng": 103.810934
+    }
   },
   {
     "area": "QUEENSTOW N",
@@ -1552,7 +2014,11 @@
     "sat": "8.00AM-11.30AM",
     "sun": "8.00AM-11.30AM",
     "public_holiday": "CLOSED",
-    "remarks": "PATIENT TO ARRIVE AT LEAST 15 MINS BEFORE CLOSING. PATIENTS SEEN AFTER NORMAL REGISTRATION AND OPERATING  HOURS WILL BE ON CASH TERMS ONLY."
+    "remarks": "PATIENT TO ARRIVE AT LEAST 15 MINS BEFORE CLOSING. PATIENTS SEEN AFTER NORMAL REGISTRATION AND OPERATING  HOURS WILL BE ON CASH TERMS ONLY.",
+    "location": {
+      "lat": 1.292684,
+      "lng": 103.802744
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1565,7 +2031,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM   \n3.00PM-6.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.276805,
+      "lng": 103.848363
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1578,7 +2048,11 @@
     "operating_hours_mon___fri": "8.30AM-5.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283847,
+      "lng": 103.852123
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1591,7 +2065,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.281143,
+      "lng": 103.848965
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1605,7 +2083,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Last registration  at\n4.30pm"
+    "remarks": "Last registration  at\n4.30pm",
+    "location": {
+      "lat": 1.276805,
+      "lng": 103.848363
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1618,7 +2100,11 @@
     "operating_hours_mon___fri": "8.30AM-5.00PM (LAST REGISTRATION\n15MINS BEFORE CLOSING)",
     "sat": "8.45AM-11.45AM (NO DOCTOR, FOR ADMIN WORK ONLY)",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283847,
+      "lng": 103.852123
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1631,7 +2117,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM (FRIDAY CLOSED AT\n5.00PM)",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283915,
+      "lng": 103.850606
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1644,7 +2134,11 @@
     "operating_hours_mon___fri": "8.30AM-5.15PM",
     "sat": "8.30AM-1.15PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.281304,
+      "lng": 103.850834
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1657,7 +2151,11 @@
     "operating_hours_mon___fri": "8.30AM-5.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.282132,
+      "lng": 103.848925
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1670,7 +2168,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28566,
+      "lng": 103.847861
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1683,7 +2185,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.276805,
+      "lng": 103.848363
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1696,7 +2202,11 @@
     "operating_hours_mon___fri": "8.30AM-5.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283529,
+      "lng": 103.852003
+    }
   },
   {
     "area": "RAFFLES PLACE",
@@ -1709,7 +2219,11 @@
     "operating_hours_mon___fri": "8.30AM-5.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283529,
+      "lng": 103.852003
+    }
   },
   {
     "area": "RIVER VALLEY",
@@ -1722,7 +2236,11 @@
     "operating_hours_mon___fri": "9.00AM-12.45PM,\n2.00PM-5.15PM",
     "sat": "9.00AM-12.45PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.293984,
+      "lng": 103.832088
+    }
   },
   {
     "area": "RIVER VALLEY",
@@ -1735,7 +2253,11 @@
     "operating_hours_mon___fri": "MON-TUE: 8.30AM-\n1.00PM, 2.00PM-\n8.00PM   WED-FRI:\n8.30AM-1.00PM,\n2.00PM-6.30PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.294067,
+      "lng": 103.8422889
+    }
   },
   {
     "area": "SELETAR",
@@ -1748,7 +2270,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.15PM-4.15PM (CLOSED ON TUE & THU)",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.396057,
+      "lng": 103.872912
+    }
   },
   {
     "area": "SEMBAWANG",
@@ -1761,7 +2287,11 @@
     "operating_hours_mon___fri": "8.00AM-12.00PM   \n2.00PM-4.00PM   \n6.00PM-9.00PM",
     "sat": "8.00AM-12.00PM\n \n2.00PM-4.00PM",
     "sun": "6.00PM-8.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.449009,
+      "lng": 103.819791
+    }
   },
   {
     "area": "SENGKANG",
@@ -1774,7 +2304,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-1.00PM   \n4.00PM-10.00PM",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.385427,
+      "lng": 103.901579
+    }
   },
   {
     "area": "SENGKANG",
@@ -1787,7 +2321,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.38376,
+      "lng": 103.897067
+    }
   },
   {
     "area": "SENGKANG",
@@ -1800,7 +2338,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-3.30PM,\n6.30PM-9.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "8.30AM-12.00PM"
+    "public_holiday": "8.30AM-12.00PM",
+    "location": {
+      "lat": 1.3915979,
+      "lng": 103.890317
+    }
   },
   {
     "area": "SENGKANG",
@@ -1814,7 +2356,11 @@
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-12.00AM",
     "public_holiday": "8.00AM-10.00PM",
-    "remarks": "CLOSED ON CHRISTMAS, NEW YEAR'S DAY & CHINESE NEW YEAR'S DAY."
+    "remarks": "CLOSED ON CHRISTMAS, NEW YEAR'S DAY & CHINESE NEW YEAR'S DAY.",
+    "location": {
+      "lat": 1.385427,
+      "lng": 103.901579
+    }
   },
   {
     "area": "SENGKANG",
@@ -1827,7 +2373,11 @@
     "operating_hours_mon___fri": "MON, TUE & THU:\n9.00AM-10.00PM, WED & FRI: 9.00AM-\n7.00PM",
     "sat": "9.00AM-6.00PM",
     "sun": "2.00PM-8.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.390561,
+      "lng": 103.908568
+    }
   },
   {
     "area": "SENGKANG",
@@ -1840,7 +2390,11 @@
     "operating_hours_mon___fri": "MON-WED: 8.30AM-\n5.00PM, 6.30PM-\n9.30PM   THU:\n8.30AM-2.00PM,\n6.30PM-9.30PM\nFRI: 8.30AM-5.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.387447,
+      "lng": 103.890621
+    }
   },
   {
     "area": "SENGKANG",
@@ -1853,7 +2407,11 @@
     "operating_hours_mon___fri": "8.00AM-11.00PM",
     "sat": "8.00AM-11.00PM",
     "sun": "8.00AM-11.00PM",
-    "public_holiday": "8.00AM-11.00PM"
+    "public_holiday": "8.00AM-11.00PM",
+    "location": {
+      "lat": 1.391809,
+      "lng": 103.895539
+    }
   },
   {
     "area": "SENGKANG",
@@ -1867,7 +2425,9 @@
     "sat": "9.00AM-3.00PM,\n6.30PM-9.30PM",
     "sun": "9.00AM-3.00PM,\n6.30PM-9.30PM",
     "public_holiday": "9.00AM-3.00PM,\n6.30PM-9.30PM",
-    "remarks": "SAT/SUN/PH: 3.00PM -\n6.00PM IS BY APPOINTMENT BASIS ONLY."
+    "remarks": "SAT/SUN/PH: 3.00PM -\n6.00PM IS BY APPOINTMENT BASIS ONLY.",
+    "location": {
+    }
   },
   {
     "area": "SENGKANG",
@@ -1881,7 +2441,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "REGISTRATION CLOSED 30 MINS BEFORE CLOSING TIME"
+    "remarks": "REGISTRATION CLOSED 30 MINS BEFORE CLOSING TIME",
+    "location": {
+      "lat": 1.392002,
+      "lng": 103.904984
+    }
   },
   {
     "area": "SENGKANG",
@@ -1894,7 +2458,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n6.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38957,
+      "lng": 103.886444
+    }
   },
   {
     "area": "SENGKANG",
@@ -1907,7 +2475,11 @@
     "operating_hours_mon___fri": "9.00AM-9.00PM",
     "sat": "9.00AM-9.00PM",
     "sun": "9.00AM-9.00PM",
-    "public_holiday": "9.00AM-1.00PM"
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 33.890559,
+      "lng": 130.6645036
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1920,7 +2492,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-9.00PM (CLOSED ON FRIDAY NIGHT)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.372526,
+      "lng": 103.855671
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1932,7 +2508,11 @@
     "fax": 64525433,
     "operating_hours_mon___fri": "8.30AM-12.00PM   \n1.00PM-3.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.00PM\n \n7.00PM-9.00PM",
-    "sun": "CLOSED"
+    "sun": "CLOSED",
+    "location": {
+      "lat": 1.368902,
+      "lng": 103.85612
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1946,7 +2526,11 @@
     "sat": "8.30AM-12.15PM",
     "sun": "8.30AM-12.15PM",
     "public_holiday": "CLOSED",
-    "remarks": "TEMPORARY  CLOSURE FROM 12-18\nNOVEMBER  2015."
+    "remarks": "TEMPORARY  CLOSURE FROM 12-18\nNOVEMBER  2015.",
+    "location": {
+      "lat": 1.3648309,
+      "lng": 103.847772
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1959,7 +2543,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.362468,
+      "lng": 103.85096
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1973,7 +2561,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Thu nights"
+    "remarks": "Closed on Thu nights",
+    "location": {
+      "lat": 1.379999,
+      "lng": 103.841406
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1985,7 +2577,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.363639,
+      "lng": 103.8487619
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -1998,7 +2594,11 @@
     "operating_hours_mon___fri": "8.45AM-12.00PM,\n2.00PM-4.00PM",
     "sat": "8.45AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38371,
+      "lng": 103.839954
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -2012,7 +2612,11 @@
     "sat": "8.00AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patients to be registered 15 mins before closing"
+    "remarks": "Patients to be registered 15 mins before closing",
+    "location": {
+      "lat": 1.380811,
+      "lng": 103.842315
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -2026,7 +2630,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-1.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "IF PH FALLS ON SUN, CLINIC WILL OPEN ON SUN & CLOSE ON FOLLOWING  MON."
+    "remarks": "IF PH FALLS ON SUN, CLINIC WILL OPEN ON SUN & CLOSE ON FOLLOWING  MON.",
+    "location": {
+      "lat": 1.373542,
+      "lng": 103.838189
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -2039,7 +2647,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.00PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.367346,
+      "lng": 103.848598
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -2052,7 +2664,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-10.00PM",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.371042,
+      "lng": 103.84818
+    }
   },
   {
     "area": "ANG MO KIO",
@@ -2065,7 +2681,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.377057,
+      "lng": 103.86546
+    }
   },
   {
     "area": "BEDOK",
@@ -2078,7 +2698,11 @@
     "operating_hours_mon___fri": "7.00AM-1.00PM,\n6.00PM-12.00AM",
     "sat": "7.00AM-1.00PM,\n6.00PM-12.00AM",
     "sun": "7.00AM-1.00PM,\n6.00PM-12.00AM",
-    "public_holiday": "7.00AM-1.00PM,\n6.00PM-12.00AM"
+    "public_holiday": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "location": {
+      "lat": 1.324047,
+      "lng": 103.940685
+    }
   },
   {
     "area": "BEDOK",
@@ -2091,7 +2715,11 @@
     "operating_hours_mon___fri": "8.30AM-2.00PM  \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "7.00AM-9.00AM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.332008,
+      "lng": 103.929827
+    }
   },
   {
     "area": "BEDOK",
@@ -2104,7 +2732,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,  \n2.00PM-5.00P,  \n7.00PM-9.00PM (CLOSED ON THURS AFT/EVE)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.331769,
+      "lng": 103.9242529
+    }
   },
   {
     "area": "SENGKANG",
@@ -2117,7 +2749,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.00PM-9.00PM (CLOSED ON FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.389259,
+      "lng": 103.873532
+    }
   },
   {
     "area": "SENTOSA",
@@ -2130,7 +2766,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-6.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.2476743,
+      "lng": 103.8420188
+    }
   },
   {
     "area": "SERANGOON",
@@ -2143,7 +2783,11 @@
     "operating_hours_mon___fri": "MON-FRI: 8.30AM-\n12.00PM, 6.45PM-\n9.00PM (CLOSED ON THU & FRI EVENINGS)",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.36926,
+      "lng": 103.874318
+    }
   },
   {
     "area": "SERANGOON",
@@ -2156,7 +2800,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM (CLOSED ON FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.357329,
+      "lng": 103.873558
+    }
   },
   {
     "area": "SERANGOON",
@@ -2169,7 +2817,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-9.00PM (CLOSED ON WED- FRI EVENING)",
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.369972,
+      "lng": 103.872411
+    }
   },
   {
     "area": "SERANGOON",
@@ -2183,7 +2835,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
     "public_holiday": "CLOSED",
-    "remarks": "TEMPORARY  CLOSURE FROM 15-25 OCTOBER\n2015."
+    "remarks": "TEMPORARY  CLOSURE FROM 15-25 OCTOBER\n2015.",
+    "location": {
+      "lat": 1.3506689,
+      "lng": 103.875584
+    }
   },
   {
     "area": "SERANGOON",
@@ -2196,7 +2852,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.30PM-4.30PM,\n6.30PM-8.30PM",
     "sat": "9.00AM-12.30PM\n \n9.00AM-12.30PM,\n2.30PM-4.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "9.00AM-12.30PM"
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.364134,
+      "lng": 103.864886
+    }
   },
   {
     "area": "SERANGOON",
@@ -2209,7 +2869,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM (CLOSED ON WED AFTERNOON)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.354141,
+      "lng": 103.870085
+    }
   },
   {
     "area": "SERANGOON",
@@ -2223,7 +2887,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Tue & Thu nights"
+    "remarks": "Closed on Tue & Thu nights",
+    "location": {
+      "lat": 1.350556,
+      "lng": 103.876088
+    }
   },
   {
     "area": "SERANGOON",
@@ -2236,7 +2904,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-10.00PM",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.365112,
+      "lng": 103.866158
+    }
   },
   {
     "area": "SERANGOON",
@@ -2249,7 +2921,11 @@
     "operating_hours_mon___fri": "9.00AM-4.00PM,\n6.30PM-9.30PM (CLOSED ON FRI NIGHT)",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-1.00PM (CLOSED ON 1ST,\n3RD, 5TH WEEK OF THE MONTH)",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.363024,
+      "lng": 103.888502
+    }
   },
   {
     "area": "SERANGOON",
@@ -2263,7 +2939,11 @@
     "sat": "8.00AM-3.00PM,\n6.00PM-10.00PM",
     "sun": "8.00AM-3.00PM,\n6.00PM-10.00PM",
     "public_holiday": "8.00AM-3.00PM,\n6.00PM-10.00PM",
-    "remarks": "LAST REGISTRATION HALF HOUR BEFORE CLOSING."
+    "remarks": "LAST REGISTRATION HALF HOUR BEFORE CLOSING.",
+    "location": {
+      "lat": 1.365112,
+      "lng": 103.866158
+    }
   },
   {
     "area": "SERANGOON",
@@ -2276,7 +2956,11 @@
     "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.00PM-10.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.37338,
+      "lng": 103.871295
+    }
   },
   {
     "area": "SIMEI",
@@ -2290,7 +2974,11 @@
     "sat": "CLOSED",
     "sun": "9.00AM-3.00PM",
     "public_holiday": "9.00AM-3.00PM",
-    "remarks": "CLOSED ON CHINESE NEW YEAR'S DAY, GOOD FRIDAY AND CHRISTMAS"
+    "remarks": "CLOSED ON CHINESE NEW YEAR'S DAY, GOOD FRIDAY AND CHRISTMAS",
+    "location": {
+      "lat": 1.344085,
+      "lng": 103.953308
+    }
   },
   {
     "area": "SIMEI",
@@ -2304,7 +2992,11 @@
     "sat": "8.30AM-12.30PM,\n2.30PM-5.00PM",
     "sun": "7.00PM-9.30PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "PATIENT TO ARRIVE AT LEAST 30MINS BEFORE CLOSING."
+    "remarks": "PATIENT TO ARRIVE AT LEAST 30MINS BEFORE CLOSING.",
+    "location": {
+      "lat": 1.344085,
+      "lng": 103.953308
+    }
   },
   {
     "area": "SIMEI",
@@ -2317,7 +3009,11 @@
     "operating_hours_mon___fri": "8.00AM-11.00PM",
     "sat": "8.00AM-11.00PM",
     "sun": "8.00AM-11.00PM",
-    "public_holiday": "9.00AM-9.00PM"
+    "public_holiday": "9.00AM-9.00PM",
+    "location": {
+      "lat": 1.342977,
+      "lng": 103.953583
+    }
   },
   {
     "area": "SIN MING",
@@ -2330,7 +3026,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM   \n2.00PM-4.00PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.362925,
+      "lng": 103.833429
+    }
   },
   {
     "area": "TAMPINES",
@@ -2342,7 +3042,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "remarks": "Closed on Wed afternoons"
+    "remarks": "Closed on Wed afternoons",
+    "location": {
+      "lat": 1.350829,
+      "lng": 103.949236
+    }
   },
   {
     "area": "TAMPINES",
@@ -2355,7 +3059,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.45PM-8.45PM (CLOSED ON THU AFTERNOON)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346653,
+      "lng": 103.944868
+    }
   },
   {
     "area": "TAMPINES",
@@ -2368,7 +3076,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM",
     "sat": "CLOSED",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.349683,
+      "lng": 103.945939
+    }
   },
   {
     "area": "TAMPINES",
@@ -2381,7 +3093,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.361307,
+      "lng": 103.952521
+    }
   },
   {
     "area": "TAMPINES",
@@ -2394,7 +3110,11 @@
     "operating_hours_mon___fri": "8.30AM-11.30PM   \n2.30PM-4.00PM   \n7.00PM-8.30PM",
     "sat": "8.30AM-11.30AM",
     "sun": "8.30AM-11.30AM",
-    "public_holiday": "8.30AM-11.30AM"
+    "public_holiday": "8.30AM-11.30AM",
+    "location": {
+      "lat": 1.361342,
+      "lng": 103.95368
+    }
   },
   {
     "area": "TAMPINES",
@@ -2407,7 +3127,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM  \n2.00PM-4.30PM   \n6.30PM-8.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.361002,
+      "lng": 103.953814
+    }
   },
   {
     "area": "TAMPINES",
@@ -2420,7 +3144,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM\n \n2.00PM-4.00PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.34703,
+      "lng": 103.937957
+    }
   },
   {
     "area": "TAMPINES",
@@ -2433,7 +3161,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.352108,
+      "lng": 103.936474
+    }
   },
   {
     "area": "TAMPINES",
@@ -2446,7 +3178,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM",
     "sat": "8.30AM-12.30PM,\n2.00PM-4.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.355612,
+      "lng": 103.945002
+    }
   },
   {
     "area": "TAMPINES",
@@ -2459,7 +3195,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-10.00PM",
-    "public_holiday": "9.00AM-6.00PM"
+    "public_holiday": "9.00AM-6.00PM",
+    "location": {
+      "lat": 1.353448,
+      "lng": 103.945119
+    }
   },
   {
     "area": "TAMPINES",
@@ -2473,7 +3213,11 @@
     "sat": "8.30AM-12.30PM\n \n7.00PM-9.00PM",
     "sun": "CLOSED",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Chinese\nNew Year's Day"
+    "remarks": "Closed on Chinese\nNew Year's Day",
+    "location": {
+      "lat": 1.346349,
+      "lng": 103.939481
+    }
   },
   {
     "area": "TAMPINES",
@@ -2486,7 +3230,11 @@
     "operating_hours_mon___fri": "8.30AM-4.30PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.353247,
+      "lng": 103.942273
+    }
   },
   {
     "area": "TAMPINES",
@@ -2499,7 +3247,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM (CLOSED ON WED EVENINGS)",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.361307,
+      "lng": 103.952521
+    }
   },
   {
     "area": "TAMPINES",
@@ -2512,7 +3264,11 @@
     "operating_hours_mon___fri": "9.00AM-11.00PM",
     "sat": "9.00AM-7.00PM",
     "sun": "9.00AM-7.00PM",
-    "public_holiday": "PH ON MON-FRI:\n9.00AM-11.00PM PH ON SAT-SUN:\n9.00AM-7.00PM"
+    "public_holiday": "PH ON MON-FRI:\n9.00AM-11.00PM PH ON SAT-SUN:\n9.00AM-7.00PM",
+    "location": {
+      "lat": 1.353182,
+      "lng": 103.9583
+    }
   },
   {
     "area": "TAMPINES",
@@ -2525,7 +3281,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.34703,
+      "lng": 103.937957
+    }
   },
   {
     "area": "TAMPINES",
@@ -2538,7 +3298,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.357849,
+      "lng": 103.9466659
+    }
   },
   {
     "area": "TAMPINES",
@@ -2551,7 +3315,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-1.00PM",
-    "public_holiday": "8.30AM-1.00PM"
+    "public_holiday": "8.30AM-1.00PM",
+    "location": {
+      "lat": 1.349652,
+      "lng": 103.933901
+    }
   },
   {
     "area": "TAMPINES",
@@ -2565,7 +3333,11 @@
     "sat": "8.30AM-1.30PM",
     "sun": "6.00PM-9.45PM (CLOSED ON EVERY FIRST SUN OF THE MONTH)",
     "public_holiday": "CLOSED",
-    "remarks": "LAST PATIENT REGISTRATION FOR EVENING SESSION WILL BE AT 9.15PM."
+    "remarks": "LAST PATIENT REGISTRATION FOR EVENING SESSION WILL BE AT 9.15PM.",
+    "location": {
+      "lat": 1.356734,
+      "lng": 103.933482
+    }
   },
   {
     "area": "TAMPINES",
@@ -2578,7 +3350,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "6.30PM-9.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.355507,
+      "lng": 103.934462
+    }
   },
   {
     "area": "TAMPINES",
@@ -2591,7 +3367,11 @@
     "operating_hours_mon___fri": "8.00AM-9.00PM",
     "sat": "8.00AM-9.00PM",
     "sun": "8.00AM-9.00PM",
-    "public_holiday": "8.00AM-9.00PM"
+    "public_holiday": "8.00AM-9.00PM",
+    "location": {
+      "lat": 1.358327,
+      "lng": 103.952125
+    }
   },
   {
     "area": "TAMPINES",
@@ -2604,7 +3384,11 @@
     "operating_hours_mon___fri": "8.30AM-12.15PM,\n2.00PM-4.15PM,\n6.30PM-8.30PM (CLOSED THU AFTERNOON)",
     "sat": "8.30AM-12.15PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.347726,
+      "lng": 103.952356
+    }
   },
   {
     "area": "TAMPINES",
@@ -2617,7 +3401,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-9.00PM",
     "sat": "9.00AM-1.00PM   \n6.00PM-9.00PM",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.352738,
+      "lng": 103.943831
+    }
   },
   {
     "area": "TAMPINES",
@@ -2630,7 +3418,11 @@
     "operating_hours_mon___fri": "8.00AM-2.00PM   \n6.30PM-9.30PM",
     "sat": "8.00AM-1.00PM",
     "sun": "8.00AM-1.00PM",
-    "public_holiday": "8.00AM-1.00PM"
+    "public_holiday": "8.00AM-1.00PM",
+    "location": {
+      "lat": 1.352255,
+      "lng": 103.953629
+    }
   },
   {
     "area": "TAMPINES",
@@ -2644,7 +3436,11 @@
     "sat": "9.00AM-4.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 18.1240182,
+      "lng": -94.4331996
+    }
   },
   {
     "area": "TANJONG PAGAR",
@@ -2658,7 +3454,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Pre-appointment ends at 4pm on Weekdays and 12pm on Sat. Last registration  is at\n4.30pm."
+    "remarks": "Pre-appointment ends at 4pm on Weekdays and 12pm on Sat. Last registration  is at\n4.30pm.",
+    "location": {
+      "lat": 1.274929,
+      "lng": 103.843549
+    }
   },
   {
     "area": "TANJONG PAGAR",
@@ -2671,7 +3471,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.276109,
+      "lng": 103.845924
+    }
   },
   {
     "area": "TEBAN",
@@ -2684,7 +3488,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.00PM,\n6.30PM-8.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.322074,
+      "lng": 103.738573
+    }
   },
   {
     "area": "TEBAN",
@@ -2698,7 +3506,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "HOLIDAY EVE: 9.00AM-\n12.00PM"
+    "remarks": "HOLIDAY EVE: 9.00AM-\n12.00PM",
+    "location": {
+      "lat": 1.322074,
+      "lng": 103.738573
+    }
   },
   {
     "area": "TELOK BLANGAH",
@@ -2711,7 +3523,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "8.30AM-12.30PM"
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.273906,
+      "lng": 103.808521
+    }
   },
   {
     "area": "TELOK BLANGAH",
@@ -2724,7 +3540,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-11.00PM",
     "sat": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
     "sun": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
-    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-11.00PM"
+    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "location": {
+      "lat": 1.273512,
+      "lng": 103.8090239
+    }
   },
   {
     "area": "THOMSON",
@@ -2737,7 +3557,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n1.30PM-4.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.321061,
+      "lng": 103.844476
+    }
   },
   {
     "area": "THOMSON",
@@ -2751,7 +3575,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Wed nights"
+    "remarks": "Closed on Wed nights",
+    "location": {
+      "lat": 1.353066,
+      "lng": 103.8349099
+    }
   },
   {
     "area": "THOMSON",
@@ -2764,7 +3592,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.30PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.319826,
+      "lng": 103.843998
+    }
   },
   {
     "area": "THOMSON",
@@ -2777,7 +3609,11 @@
     "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.00PM-9.30PM",
     "sat": "8.30AM-4.00PM",
     "sun": "8.30AM-4.00PM,\n6.00PM-9.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.371664,
+      "lng": 103.829143
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2790,7 +3626,11 @@
     "operating_hours_mon___fri": "8.30AM-4.30PM,\n7.00PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM,\n7.00PM-9.30PM",
-    "public_holiday": "8.30AM-12.30PM,\n7.00PM-9.30PM"
+    "public_holiday": "8.30AM-12.30PM,\n7.00PM-9.30PM",
+    "location": {
+      "lat": 1.282517,
+      "lng": 103.825796
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2804,7 +3644,11 @@
     "sat": "8.00AM-3.30PM  \n6.00PM-9.30PM",
     "sun": "CLOSED",
     "public_holiday": "8.00AM-3.00PM",
-    "remarks": "Patients to be registered 30mins before closing"
+    "remarks": "Patients to be registered 30mins before closing",
+    "location": {
+      "lat": 1.28568,
+      "lng": 103.826718
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2817,7 +3661,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM\n2.00PM-4.30PM\n6.30PM-9.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "9.00AM-12.30PM"
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.288999,
+      "lng": 103.827603
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2830,7 +3678,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n6.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-1.00PM,\n6.00PM-10.00PM",
-    "public_holiday": "9.00AM-1.00PM,\n6.30PM-9.30PM"
+    "public_holiday": "9.00AM-1.00PM,\n6.30PM-9.30PM",
+    "location": {
+      "lat": 1.282525,
+      "lng": 103.8295009
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2843,7 +3695,11 @@
     "operating_hours_mon___fri": "10.00AM-12.30PM,\n2.00PM-5.30PM",
     "sat": "10.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.2850379,
+      "lng": 103.829342
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2856,7 +3712,9 @@
     "operating_hours_mon___fri": "8.00AM-1.00PM,\n1.30PM-5.00PM,\n5.30PM-8.00PM",
     "sat": "8.00AM-1.00PM",
     "sun": "8.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "TIONG BAHRU",
@@ -2869,7 +3727,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "10.00AM-10.00PM",
-    "public_holiday": "10.00AM-10.00PM"
+    "public_holiday": "10.00AM-10.00PM",
+    "location": {
+      "lat": 1.288768,
+      "lng": 103.828705
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2882,7 +3744,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM (CLOSED ON THU & FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.338334,
+      "lng": 103.845538
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2895,7 +3761,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM   \n1.30PM-4.00PM   \n5.30PM-8.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.338334,
+      "lng": 103.845538
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2908,7 +3778,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n7.00PM-9.00PM (CLOSED ON WED & FRI EVENING)",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3332949,
+      "lng": 103.849135
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2922,7 +3796,11 @@
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
     "public_holiday": "9.00AM-12.30PM",
-    "remarks": "Closed on New Year's Day, Labour Day, National Day, Christmas and Chinese New Year's Day"
+    "remarks": "Closed on New Year's Day, Labour Day, National Day, Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.338881,
+      "lng": 103.849803
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2935,7 +3813,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n1.00PM-4.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.338873,
+      "lng": 103.848997
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2949,7 +3831,11 @@
     "sat": "8.00AM-3.00PM",
     "sun": "8.00AM-3.00PM,\n6.00PM-10.00PM",
     "public_holiday": "8.00AM-12.30PM (*CLINIC CLOSE ON CERTAIN PUBLIC HOLIDAYS)",
-    "remarks": "PATIENT TO ARRIVE AT LEAST 15MINS BEFORE CLOSING."
+    "remarks": "PATIENT TO ARRIVE AT LEAST 15MINS BEFORE CLOSING.",
+    "location": {
+      "lat": 1.341253,
+      "lng": 103.846346
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2962,7 +3848,11 @@
     "operating_hours_mon___fri": "10.00AM-12.00PM,\n3.00PM-4.00PM",
     "sat": "10.00AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.334824,
+      "lng": 103.852258
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2976,7 +3866,11 @@
     "sat": "9.00AM-12.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "(LAST REGISTRATION\n15 MINS BEFORE CLOSING)"
+    "remarks": "(LAST REGISTRATION\n15 MINS BEFORE CLOSING)",
+    "location": {
+      "lat": 1.333005,
+      "lng": 103.847064
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -2989,7 +3883,11 @@
     "operating_hours_mon___fri": "MON-TUE: 8.30AM-\n12.30PM, 2.00PM-\n4.00PM, 7.00PM-\n9.00PM   WED-FRI:\n8.30AM-12.30PM,\n2.00PM-5.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3339589,
+      "lng": 103.844393
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -3002,7 +3900,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.30PM-4.30PM  \n7.00PM-9.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "10.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336919,
+      "lng": 103.853967
+    }
   },
   {
     "area": "TOA PAYOH",
@@ -3015,7 +3917,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n7.30PM-10.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336315,
+      "lng": 103.847346
+    }
   },
   {
     "area": "TUAS",
@@ -3028,7 +3934,9 @@
     "operating_hours_mon___fri": "6.00PM-9.00PM",
     "sat": "6.00PM-9.00PM",
     "sun": "6.00PM-9.00PM",
-    "public_holiday": "6.00PM-9.00PM"
+    "public_holiday": "6.00PM-9.00PM",
+    "location": {
+    }
   },
   {
     "area": "UBI",
@@ -3041,7 +3949,11 @@
     "operating_hours_mon___fri": "8.30AM-5.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.330744,
+      "lng": 103.902125
+    }
   },
   {
     "area": "UBI",
@@ -3054,7 +3966,11 @@
     "operating_hours_mon___fri": "MON-THU: \n8.30AM-1.00PM \n2.00PM-4.00PM \n6.00PM-7.30PM    FRI: \n8.30AM-12.00PM \n2.00PM-4.00PM",
     "sat": "9.30AM-12.00PM",
     "sun": "9.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.329443,
+      "lng": 103.901257
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3067,7 +3983,11 @@
     "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.00PM-9.30PM",
     "sat": "8.30AM-4.00PM",
     "sun": "8.30AM-4.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.428724,
+      "lng": 103.781141
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3080,7 +4000,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM (CLOSED ON FRI NIGHT)",
     "sat": "8.30AM-1.00PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.437703,
+      "lng": 103.79527
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3093,7 +4017,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n1.30PM-3.30PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.442756,
+      "lng": 103.790708
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3105,7 +4033,11 @@
     "fax": 63623254,
     "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM",
-    "sun": "9.00AM-12.30PM"
+    "sun": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.437911,
+      "lng": 103.78198
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3117,7 +4049,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n6.00PM-8.30PM (CLOSED ON TUE & THU NIGHT)",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.430924,
+      "lng": 103.790837
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3131,7 +4067,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "- LAST REGISTRATION\n1 HOUR BEFORE CLOSING TIME."
+    "remarks": "- LAST REGISTRATION\n1 HOUR BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.439805,
+      "lng": 103.801588
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3144,7 +4084,11 @@
     "operating_hours_mon___fri": "8.00AM-1.00PM   \n2.00PM-5.00PM  \n6.00PM-12.00AM",
     "sat": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM",
     "sun": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM",
-    "public_holiday": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM"
+    "public_holiday": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM",
+    "location": {
+      "lat": 1.441111,
+      "lng": 103.799198
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3158,7 +4102,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "CLOSED ON TUE, WED\n& FRI NIGHTS. LAST REGISTRATION 15\nMINS BEFORE CLOSING\nTIME."
+    "remarks": "CLOSED ON TUE, WED\n& FRI NIGHTS. LAST REGISTRATION 15\nMINS BEFORE CLOSING\nTIME.",
+    "location": {
+      "lat": 1.442756,
+      "lng": 103.790708
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3171,7 +4119,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM (CLOSED ON FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.430465,
+      "lng": 103.774129
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3184,7 +4136,11 @@
     "operating_hours_mon___fri": "8.30AM-12.15PM   \n2.00PM-4.15PM   \n6.00PM-8.15PM",
     "sat": "8.30AM-12.15PM",
     "sun": "8.30AM-12.15PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.446698,
+      "lng": 103.773833
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3197,7 +4153,11 @@
     "operating_hours_mon___fri": "24 HOURS",
     "sat": "24 HOURS",
     "sun": "24 HOURS",
-    "public_holiday": "24 HOURS"
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.445962,
+      "lng": 103.798159
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3210,7 +4170,11 @@
     "operating_hours_mon___fri": "8.00AM-12.00PM,\n5.00PM-8.00PM",
     "sat": "12.30PM-3.00PM",
     "sun": "12.30PM-3.00PM",
-    "public_holiday": "12.30PM-3.00PM"
+    "public_holiday": "12.30PM-3.00PM",
+    "location": {
+      "lat": 1.444459,
+      "lng": 103.807895
+    }
   },
   {
     "area": "WOODLANDS",
@@ -3223,7 +4187,9 @@
     "operating_hours_mon___fri": "7.00AM-4.00PM,\n6.00PM-9.00PM",
     "sat": "CLOSED",
     "sun": "7.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "YISHUN",
@@ -3236,7 +4202,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.43708,
+      "lng": 103.830921
+    }
   },
   {
     "area": "YISHUN",
@@ -3249,7 +4219,11 @@
     "operating_hours_mon___fri": "MON-THU: 9.00AM-\n12.30PM, 2.30PM-\n4.30PM, 7.00PM-\n9.00PM   FRI:\n9.00AM-12.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.4217979,
+      "lng": 103.835421
+    }
   },
   {
     "area": "YISHUN",
@@ -3263,7 +4237,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Wed afternoons."
+    "remarks": "Closed on Wed afternoons.",
+    "location": {
+      "lat": 1.424411,
+      "lng": 103.846319
+    }
   },
   {
     "area": "YISHUN",
@@ -3276,7 +4254,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.432499,
+      "lng": 103.833132
+    }
   },
   {
     "area": "YISHUN",
@@ -3290,7 +4272,11 @@
     "sat": "8.00AM-2.00PM,\n5.30PM-10.30PM (LAST REGISTRATION\n1.15PM & 9.45PM)",
     "sun": "9.00AM-2.00PM,\n5.30PM-10.30PM (LAST REGISTRATION\n1.15PM & 9.45PM)",
     "public_holiday": "CLOSED",
-    "remarks": "(LAST REGISTRATION\n1.15PM & 9.45PM)"
+    "remarks": "(LAST REGISTRATION\n1.15PM & 9.45PM)",
+    "location": {
+      "lat": 1.436545,
+      "lng": 103.8363959
+    }
   },
   {
     "area": "YISHUN",
@@ -3303,7 +4289,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM  \n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.417705,
+      "lng": 103.836588
+    }
   },
   {
     "area": "YISHUN",
@@ -3316,7 +4306,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON TUE/THU EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.426375,
+      "lng": 103.836995
+    }
   },
   {
     "area": "YISHUN",
@@ -3329,7 +4323,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.30PM-4.30PM,\n7.00PM-9.00PM",
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.420297,
+      "lng": 103.841045
+    }
   },
   {
     "area": "YISHUN",
@@ -3342,7 +4340,11 @@
     "operating_hours_mon___fri": "24 HOURS",
     "sat": "24 HOURS",
     "sun": "24 HOURS",
-    "public_holiday": "24 HOURS"
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.4299519,
+      "lng": 103.827832
+    }
   },
   {
     "area": "YISHUN",
@@ -3355,7 +4357,11 @@
     "operating_hours_mon___fri": "8.30AM-3.00PM,\n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.4168099,
+      "lng": 103.831389
+    }
   },
   {
     "area": "YISHUN",
@@ -3368,7 +4374,11 @@
     "operating_hours_mon___fri": "MON: CLOSED TUE/WED/FRI:\n9.00AM-12.00PM THU: 3.00PM-\n7.00PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.422385,
+      "lng": 103.833623
+    }
   },
   {
     "area": "YISHUN",
@@ -3381,7 +4391,9 @@
     "operating_hours_mon___fri": "8.30AM-2.30PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM,\n6.30PM-9.30PM",
-    "public_holiday": "8.30AM-12.30PM (PLEASE CALL CLINIC BEFORE CONSULT)"
+    "public_holiday": "8.30AM-12.30PM (PLEASE CALL CLINIC BEFORE CONSULT)",
+    "location": {
+    }
   },
   {
     "area": "YISHUN",
@@ -3394,7 +4406,9 @@
     "operating_hours_mon___fri": "MON-THU: 8.00AM-\n12.30PM, 2.00PM-\n4.00PM, 6.30-\n9.00PM   FRI:\n8.00AM-1.00PM,\n6.00PM-9.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "6.00PM-9.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "YISHUN",
@@ -3407,37 +4421,61 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n6.30PM-9.00PM",
     "sat": "9.00AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.428283,
+      "lng": 103.833404
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
-    "area": "JOHOR BAHRU"
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3450,7 +4488,9 @@
     "operating_hours_mon___fri": "9.30AM-1.00PM,\n2.30PM-5.00PM,\n7.30PM-9.00PM",
     "sat": "9.00AM-5.00PM",
     "sun": "9.00AM-5.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3463,7 +4503,9 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM \n2.00PM-5.00PM \n6.00PM-8.00PM",
     "sat": "9.00AM-1.00PM \n2.00PM-5.00PM \n6.00PM-8.00PM",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3476,7 +4518,11 @@
     "operating_hours_mon___fri": "9.00AM-5.00PM \n7.00PM-9.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3489,7 +4535,11 @@
     "operating_hours_mon___fri": "9.00AM-10.00PM",
     "sat": "9.00AM-10.00PM",
     "sun": "9.00AM-10.00PM",
-    "public_holiday": "9.00AM-10.00PM"
+    "public_holiday": "9.00AM-10.00PM",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3502,7 +4552,11 @@
     "operating_hours_mon___fri": "8.30AM-4.00PM \n6.00PM-9.30PM (CLOSED ON WED EVENING)",
     "sat": "8.30AM-4.00PM \n6.00PM-9.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5113842,
+      "lng": -46.4002158
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3515,7 +4569,11 @@
     "operating_hours_mon___fri": "8.30AM-4.30PM,\n6.00PM-10.30PM (CLOSED ON TUESDAY)",
     "sat": "8.30AM-4.30PM,\n6.00PM-10.30PM",
     "sun": "8.30AM-4.30PM,\n6.00PM-10.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3528,7 +4586,11 @@
     "operating_hours_mon___fri": "24HOURS",
     "sat": "24HOURS",
     "sun": "24HOURS",
-    "public_holiday": "24HOURS"
+    "public_holiday": "24HOURS",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3541,7 +4603,11 @@
     "operating_hours_mon___fri": "9.00AM-9.00PM",
     "sat": "9.00AM-9.00PM",
     "sun": "CLOSED",
-    "public_holiday": "9.00AM-9.00PM"
+    "public_holiday": "9.00AM-9.00PM",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3554,7 +4620,11 @@
     "operating_hours_mon___fri": "7.30AM-12.00AM",
     "sat": "7.30AM-12.00AM",
     "sun": "7.30AM-12.00AM",
-    "public_holiday": "7.30AM-12.00AM"
+    "public_holiday": "7.30AM-12.00AM",
+    "location": {
+      "lat": -23.5113842,
+      "lng": -46.4002158
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3567,7 +4637,11 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM (CLOSED ON FRIDAY)",
     "sat": "8.00AM-10.00PM",
     "sun": "8.00AM-10.00PM",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3580,7 +4654,9 @@
     "operating_hours_mon___fri": "8.00AM-10.00PM",
     "sat": "8.00AM-10.00PM",
     "sun": "CLOSED",
-    "public_holiday": "8.00AM-10.00PM"
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3593,7 +4669,9 @@
     "operating_hours_mon___fri": "9.00AM-10.30PM",
     "sat": "9.00AM-10.30PM",
     "sun": "9.00AM-10.30PM",
-    "public_holiday": "9.00AM-10.30PM"
+    "public_holiday": "9.00AM-10.30PM",
+    "location": {
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3606,7 +4684,11 @@
     "operating_hours_mon___fri": "8.00AM-11.30PM",
     "sat": "8.00AM-11.30PM",
     "sun": "8.00AM-11.30PM",
-    "public_holiday": "8.00AM-11.30PM"
+    "public_holiday": "8.00AM-11.30PM",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3619,7 +4701,11 @@
     "operating_hours_mon___fri": "MON-WED & FRI:\n9.00AM-9.30PM THU: 5.30PM-\n9.30PM",
     "sat": "9.00AM-9.30PM",
     "sun": "9.00AM-9.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
   },
   {
     "area": "JOHOR BAHRU",
@@ -3631,7 +4717,9 @@
     "operating_hours_mon___fri": "9.00AM-10.00PM",
     "sat": "9.00AM-10.00PM",
     "sun": "9.00AM-10.00PM",
-    "public_holiday": "9.00AM-10.00PM"
+    "public_holiday": "9.00AM-10.00PM",
+    "location": {
+    }
   },
   {
     "area": "BEDOK",
@@ -3644,7 +4732,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON FRI EVENING)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.3325959,
+      "lng": 103.907832
+    }
   },
   {
     "area": "BEDOK",
@@ -3657,7 +4749,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.30PM-5.00PM   \n7.00PM-9.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.320175,
+      "lng": 103.935554
+    }
   },
   {
     "area": "BEDOK",
@@ -3670,7 +4766,11 @@
     "operating_hours_mon___fri": "8.00AM-12.45PM   \n2.00PM-4.45PM   \n6.00PM-11.45PM",
     "sat": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM",
     "sun": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM",
-    "public_holiday": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM"
+    "public_holiday": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM",
+    "location": {
+      "lat": 1.3274919,
+      "lng": 103.933686
+    }
   },
   {
     "area": "BEDOK",
@@ -3683,7 +4783,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.30PM   \n7.00PM-9.00PM",
     "sat": "9.00AM-12.30PM\n \n2.00PM-4.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "9.00AM-12.30PM"
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.330059,
+      "lng": 103.930712
+    }
   },
   {
     "area": "BEDOK",
@@ -3696,7 +4800,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.323454,
+      "lng": 103.9334499
+    }
   },
   {
     "area": "BEDOK",
@@ -3710,7 +4818,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at least 15mins before closing"
+    "remarks": "Patient to arrive at least 15mins before closing",
+    "location": {
+      "lat": 1.337138,
+      "lng": 103.919774
+    }
   },
   {
     "area": "BEDOK",
@@ -3723,7 +4835,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM   \n3.00PM-5.30PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.329592,
+      "lng": 103.937359
+    }
   },
   {
     "area": "BEDOK",
@@ -3737,7 +4853,11 @@
     "sat": "8.30AM-12.00PM",
     "sun": "9.30AM-12.00PM",
     "public_holiday": "9.30AM-12.00PM",
-    "remarks": "TEMPORARY  CLOSURE FROM 20-25 OCTOBER\n2015."
+    "remarks": "TEMPORARY  CLOSURE FROM 20-25 OCTOBER\n2015.",
+    "location": {
+      "lat": 1.333222,
+      "lng": 103.926193
+    }
   },
   {
     "area": "BEDOK",
@@ -3751,7 +4871,11 @@
     "sat": "9.00AM-12.00PM,\n2.00PM-4.00PM",
     "sun": "9.00AM-11.30AM",
     "public_holiday": "9.00AM-11.30AM",
-    "remarks": "TEMPORARY  CLOSURE FROM 15-17 OCT 2015\n& 13-17 DEC 2015."
+    "remarks": "TEMPORARY  CLOSURE FROM 15-17 OCT 2015\n& 13-17 DEC 2015.",
+    "location": {
+      "lat": 1.332034,
+      "lng": 103.91397
+    }
   },
   {
     "area": "BEDOK",
@@ -3765,7 +4889,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Fri afternoons"
+    "remarks": "Closed on Fri afternoons",
+    "location": {
+      "lat": 1.332541,
+      "lng": 103.938978
+    }
   },
   {
     "area": "BEDOK",
@@ -3778,7 +4906,11 @@
     "operating_hours_mon___fri": "8.30AM-12.15PM,\n2.00PM-4.45PM,\n7.00PM-9.30PM (CLOSED ON FRI AFTERNOON)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.331381,
+      "lng": 103.908646
+    }
   },
   {
     "area": "BEDOK",
@@ -3791,7 +4923,11 @@
     "operating_hours_mon___fri": "8.30AM-2.30PM  \n5.30PM-9.30PM",
     "sat": "8.30AM-1.00PM",
     "sun": "9.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.326024,
+      "lng": 103.93243
+    }
   },
   {
     "area": "BEDOK",
@@ -3804,7 +4940,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.324047,
+      "lng": 103.940685
+    }
   },
   {
     "area": "BEDOK",
@@ -3817,7 +4957,11 @@
     "operating_hours_mon___fri": "8.00AM-1.00PM   \n7.00PM-9.30PM (CLOSED ON FRI EVENING)",
     "sat": "8.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3314839,
+      "lng": 103.94732
+    }
   },
   {
     "area": "BEDOK",
@@ -3830,7 +4974,11 @@
     "operating_hours_mon___fri": "24 HOURS",
     "sat": "24 HOURS",
     "sun": "24 HOURS",
-    "public_holiday": "24 HOURS"
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.324961,
+      "lng": 103.932968
+    }
   },
   {
     "area": "BEDOK",
@@ -3843,7 +4991,11 @@
     "operating_hours_mon___fri": "MON/TUE/THU:\n9.00AM-12.30PM,\n1.30PM-3.30PM,\n6.30PM-9.30PM WED: 9.00AM-\n12.30PM, 6.30PM-\n9.30PM FRI: 9.00AM-\n12.30PM, 6.30PM-\n8.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.30AM-12.30PM,\n6.30PM-8.30PM",
-    "public_holiday": "9.30AM-12.30PM"
+    "public_holiday": "9.30AM-12.30PM",
+    "location": {
+      "lat": 1.328627,
+      "lng": 103.92989
+    }
   },
   {
     "area": "BENCOOLEN",
@@ -3856,7 +5008,11 @@
     "operating_hours_mon___fri": "9.00AM-5.00PM",
     "sat": "CLOSED",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3018829,
+      "lng": 103.853117
+    }
   },
   {
     "area": "BENDEMEER",
@@ -3869,7 +5025,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.323265,
+      "lng": 103.866596
+    }
   },
   {
     "area": "BISHAN",
@@ -3882,7 +5042,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM",
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.348388,
+      "lng": 103.849097
+    }
   },
   {
     "area": "BISHAN",
@@ -3896,7 +5060,11 @@
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "Patient to arrive at least 15mins before closing"
+    "remarks": "Patient to arrive at least 15mins before closing",
+    "location": {
+      "lat": 1.349031,
+      "lng": 103.848046
+    }
   },
   {
     "area": "BISHAN",
@@ -3909,7 +5077,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED TUE & FRI NIGHT)",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.358924,
+      "lng": 103.844074
+    }
   },
   {
     "area": "BISHAN",
@@ -3921,7 +5093,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON WED AFTERNOONS)",
     "sat": "8.30AM-1.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.345631,
+      "lng": 103.854692
+    }
   },
   {
     "area": "BOON KENG",
@@ -3935,7 +5111,11 @@
     "sat": "8.30AM-12.30PM\n \n2.00PM-4.00PM",
     "sun": "8.30AM-12.00PM",
     "public_holiday": "8.30AM-12.00PM",
-    "remarks": "Patient to arrive at least 15 mins before closing"
+    "remarks": "Patient to arrive at least 15 mins before closing",
+    "location": {
+      "lat": 1.319673,
+      "lng": 103.861129
+    }
   },
   {
     "area": "BOON LAY",
@@ -3948,7 +5128,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM   \n1.30PM-4.00PM  \n5.30PM-8.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
   },
   {
     "area": "BOON LAY",
@@ -3961,7 +5145,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "9.00AM-1.00PM"
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
   },
   {
     "area": "BOON LAY",
@@ -3974,7 +5162,11 @@
     "operating_hours_mon___fri": "8.00AM-9.30PM",
     "sat": "8.00AM-9.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
   },
   {
     "area": "BOON LAY",
@@ -3987,7 +5179,11 @@
     "operating_hours_mon___fri": "MON-THU: 8.30AM-\n8.30PM   FRI:\n8.30AM-5.00PM",
     "sat": "8.30AM-5.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.344394,
+      "lng": 103.720999
+    }
   },
   {
     "area": "BOON LAY",
@@ -4000,7 +5196,9 @@
     "operating_hours_mon___fri": "8.00AM-1.00PM,\n2.00PM-6.00PM",
     "sat": "8.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "BOON LAY",
@@ -4013,7 +5211,11 @@
     "operating_hours_mon___fri": "8.00AM-4.00PM,\n5.00PM-11.00PM",
     "sat": "8.00AM-4.00PM,\n5.00PM-11.00PM",
     "sun": "8.00AM-4.00PM,\n5.00PM-11.00PM",
-    "public_holiday": "8.00AM-4.00PM,\n5.00PM-11.00PM"
+    "public_holiday": "8.00AM-4.00PM,\n5.00PM-11.00PM",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
   },
   {
     "area": "BUANGKOK",
@@ -4026,7 +5228,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM,\n6.30PM-9.00PM (CLOSED ON FRI NIGHT)",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.382662,
+      "lng": 103.893007
+    }
   },
   {
     "area": "BUGIS",
@@ -4039,7 +5245,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.30386,
+      "lng": 103.864834
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4052,7 +5262,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n1.00PM-3.00PM,\n7.00PM-8.30PM",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.361923,
+      "lng": 103.74553
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4066,7 +5280,11 @@
     "sat": "9.00AM-12.30PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "Closed on Christmas and Chinese New Year's Day"
+    "remarks": "Closed on Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.3462209,
+      "lng": 103.749347
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4080,7 +5298,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION IS\n10 MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION IS\n10 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.3442639,
+      "lng": 103.759165
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4093,7 +5315,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON WED AFTERNOON  & NIGHT AND FRI AFTERNOON)",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346886,
+      "lng": 103.752431
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4107,7 +5333,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "PLEASE CALL TO CONFIRM IF THE CLINIC IS OPENED ON PUBLIC HOLIDAYS."
+    "remarks": "PLEASE CALL TO CONFIRM IF THE CLINIC IS OPENED ON PUBLIC HOLIDAYS.",
+    "location": {
+      "lat": 1.347743,
+      "lng": 103.757137
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4120,7 +5350,11 @@
     "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.30PM-4.30PM,\n7.30PM-9.00PM (CLOSED ON FRI AFTERNOON  & NIGHT)",
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "9.00AM-12.00PM"
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.348739,
+      "lng": 103.744243
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4134,7 +5368,11 @@
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
     "public_holiday": "8.30AM-12.00PM",
-    "remarks": "CLOSED ON WED AFTERNOONS  AND NIGHTS"
+    "remarks": "CLOSED ON WED AFTERNOONS  AND NIGHTS",
+    "location": {
+      "lat": 1.3462209,
+      "lng": 103.749347
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4148,7 +5386,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.363734,
+      "lng": 103.746714
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4161,7 +5403,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.356678,
+      "lng": 103.750976
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4174,7 +5420,9 @@
     "operating_hours_mon___fri": "9.00AM-9.00PM",
     "sat": "9.00AM-9.00PM",
     "sun": "9.00AM-9.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "BUKIT BATOK",
@@ -4187,7 +5435,11 @@
     "operating_hours_mon___fri": "8.00AM-4.00PM,\n5.00PM-10.00PM",
     "sat": "8.00AM-4.00PM,\n5.00PM-10.00PM",
     "sun": "8.00AM-4.00PM,\n5.00PM-10.00PM",
-    "public_holiday": "8.00AM-4.00PM,\n5.00PM-10.00PM"
+    "public_holiday": "8.00AM-4.00PM,\n5.00PM-10.00PM",
+    "location": {
+      "lat": 1.349812,
+      "lng": 103.7499349
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4200,7 +5452,11 @@
     "operating_hours_mon___fri": "MON-THU: 8.30AM-\n1.00PM, 5.00PM-\n7.00PM   FRI:\n8.30AM-1.00PM,\n2.00PM-4.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28649,
+      "lng": 103.8081
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4213,7 +5469,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28344,
+      "lng": 103.816199
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4226,7 +5486,11 @@
     "operating_hours_mon___fri": "8.30AM-1.30PM,\n2.30PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON TUE/THU/FRI NIGHTS)",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.284152,
+      "lng": 103.816987
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4239,7 +5503,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.286675,
+      "lng": 103.803776
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4252,7 +5520,11 @@
     "operating_hours_mon___fri": "9.00AM-1.00PM   \n3.00PM-7.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "9.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.289137,
+      "lng": 103.815171
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4266,7 +5538,11 @@
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Tue & Thu nights"
+    "remarks": "Closed on Tue & Thu nights",
+    "location": {
+      "lat": 1.273916,
+      "lng": 103.825288
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4280,7 +5556,11 @@
     "sat": "8.00AM-11.30AM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "NO DOCTOR FROM 15-\n21 OCT 2015."
+    "remarks": "NO DOCTOR FROM 15-\n21 OCT 2015.",
+    "location": {
+      "lat": 1.2812349,
+      "lng": 103.8103409
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4293,7 +5573,11 @@
     "operating_hours_mon___fri": "MON-FRI: 8.30AM-\n12.30PM, 2.00PM-\n5.00PM   MON:\n7.00PM-9.00PM",
     "sat": "8.30AM-2.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.285815,
+      "lng": 103.802953
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4306,7 +5590,11 @@
     "operating_hours_mon___fri": "8.30AM-2.00PM,\n6.00PM-10.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.289917,
+      "lng": 103.827693
+    }
   },
   {
     "area": "BUKIT MERAH",
@@ -4319,7 +5607,11 @@
     "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.30PM-8.30PM (CLOSED ON FRI NIGHT)",
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28649,
+      "lng": 103.8081
+    }
   },
   {
     "area": "BUKIT PANJANG",
@@ -4332,7 +5624,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.30PM-10.00PM",
     "sat": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.30PM-10.00PM",
     "sun": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.30PM-10.00PM",
-    "public_holiday": "8.30AM-1.00PM,\n2.00PM-4.30PM"
+    "public_holiday": "8.30AM-1.00PM,\n2.00PM-4.30PM",
+    "location": {
+      "lat": 1.37978,
+      "lng": 103.760383
+    }
   },
   {
     "area": "BUKIT PANJANG",
@@ -4345,7 +5641,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM (CLOSED ON TUE & FRI NIGHT)",
     "sat": "8.30AM-12.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.378629,
+      "lng": 103.768434
+    }
   },
   {
     "area": "BUKIT PANJANG",
@@ -4359,7 +5659,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Fri afternoons and evenings"
+    "remarks": "Closed on Fri afternoons and evenings",
+    "location": {
+      "lat": 1.378629,
+      "lng": 103.768434
+    }
   },
   {
     "area": "BUKIT PANJANG",
@@ -4373,7 +5677,11 @@
     "sat": "8.00AM-12.00PM\n \n6.30PM-9.00PM",
     "sun": "8.00AM-12.00PM",
     "public_holiday": "8.00AM-12.00PM",
-    "remarks": "Patients to be registered 30 mins before closing"
+    "remarks": "Patients to be registered 30 mins before closing",
+    "location": {
+      "lat": 1.383802,
+      "lng": 103.770558
+    }
   },
   {
     "area": "BUKIT PANJANG",
@@ -4387,7 +5695,11 @@
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION IS\n30MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION IS\n30MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.384839,
+      "lng": 103.766361
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4400,7 +5712,11 @@
     "operating_hours_mon___fri": "9.00AM-3.00PM,\n5.00PM-10.00PM (CLOSED ON FRI EVENING)",
     "sat": "9.00AM-3.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3113459,
+      "lng": 103.795699
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4413,7 +5729,11 @@
     "operating_hours_mon___fri": "MON/WED/FRI:\n9.00AM-12.00PM,\n2.00PM-5.30PM TUE: 9.00AM-\n12.00PM, 2.00PM-\n4.00PM   THU:\n9.00AM-12.00PM",
     "sat": "CLOSED",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.340902,
+      "lng": 103.775963
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4426,7 +5746,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.333394,
+      "lng": 103.790179
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4439,7 +5763,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-6.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.339001,
+      "lng": 103.778958
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4452,7 +5780,11 @@
     "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.30PM (CLOSED ON WED AFTERNOON)",
     "sat": "8.30AM-12.00PM",
     "sun": "8.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.340323,
+      "lng": 103.773689
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4465,7 +5797,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.00PM",
     "sat": "9.00AM-12.30PM",
     "sun": "9.30AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.323784,
+      "lng": 103.810236
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4478,7 +5814,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.30PM-5.30PM (CLOSED ON WED & FRI AFTERNOON)",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.316644,
+      "lng": 103.7789729
+    }
   },
   {
     "area": "BUKIT TIMAH",
@@ -4491,7 +5831,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM (CLOSED ON FRI AFTERNOON),\n6.30PM-9.00PM",
     "sat": "9.30AM-12.30PM",
     "sun": "9.30AM-12.30PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.359595,
+      "lng": 103.767493
+    }
   },
   {
     "area": "BUONA VISTA",
@@ -4504,7 +5848,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n7.00PM-9.00PM (CLOSED ON WED & FRI NIGHTS)",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.320431,
+      "lng": 103.778992
+    }
   },
   {
     "area": "BUONA VISTA",
@@ -4517,7 +5865,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.299622,
+      "lng": 103.787656
+    }
   },
   {
     "area": "BUONA VISTA",
@@ -4530,7 +5882,9 @@
     "operating_hours_mon___fri": "8.00AM-4.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+    }
   },
   {
     "area": "CHAI CHEE",
@@ -4543,7 +5897,11 @@
     "operating_hours_mon___fri": "8.30AM-3.00PM,\n6.00PM-11.00PM",
     "sat": "8.30AM-3.00PM",
     "sun": "8.30AM-3.00PM",
-    "public_holiday": "8.30AM-3.00PM"
+    "public_holiday": "8.30AM-3.00PM",
+    "location": {
+      "lat": 1.323408,
+      "lng": 103.924153
+    }
   },
   {
     "area": "CHAI CHEE",
@@ -4557,7 +5915,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "PATIENTS TO REGISTER 30 MINS BEFORE CLOSING."
+    "remarks": "PATIENTS TO REGISTER 30 MINS BEFORE CLOSING.",
+    "location": {
+      "lat": 1.323408,
+      "lng": 103.924153
+    }
   },
   {
     "area": "CHAI CHEE",
@@ -4571,7 +5933,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "CLOSED",
-    "remarks": "Closed on Christmas and Chinese New Year's Day"
+    "remarks": "Closed on Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.32635,
+      "lng": 103.922814
+    }
   },
   {
     "area": "CHANGI",
@@ -4584,7 +5950,11 @@
     "operating_hours_mon___fri": "MON/TUE/THU/FRI:\n9.00AM-1.00PM,\n2.00PM-5.00PM WED: 9.00AM-\n1.00PM",
     "sat": "9.00AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.31809,
+      "lng": 103.907292
+    }
   },
   {
     "area": "CHANGI",
@@ -4597,7 +5967,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
     "sat": "CLOSED",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336124,
+      "lng": 103.963437
+    }
   },
   {
     "area": "CHINATOWN",
@@ -4610,7 +5984,11 @@
     "operating_hours_mon___fri": "8.30AM-6.30PM",
     "sat": "8.30AM-6.30PM",
     "sun": "9.00AM-8.00PM (APPOINTMENT BASIS ONLY)",
-    "public_holiday": "APPOINTMENT BASIS ONLY"
+    "public_holiday": "APPOINTMENT BASIS ONLY",
+    "location": {
+      "lat": 1.283384,
+      "lng": 103.846868
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4624,7 +6002,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "CLINIC LAST REGISTRATION IS 15\nMINS BEFORE CLOSING TIME OR EARLIER\nTHAN AS STATED IF WE HAVE REACHED THE MAXIMUM NUMBER OF PATIENTS THAT CAN BE ACCEPTED  FOR THAT SESSION."
+    "remarks": "CLINIC LAST REGISTRATION IS 15\nMINS BEFORE CLOSING TIME OR EARLIER\nTHAN AS STATED IF WE HAVE REACHED THE MAXIMUM NUMBER OF PATIENTS THAT CAN BE ACCEPTED  FOR THAT SESSION.",
+    "location": {
+      "lat": 1.377542,
+      "lng": 103.744413
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4638,7 +6020,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-12.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "- LAST REGISTRATION\n15 MINS BEFORE CLOSING OR EARLIER IF MAXIMUM NUMBER OF PATIENTS REACHED FOR THAT SESSION. \n- TEMPORARY CLOSURE FROM 15-21\nOCTOBER 2015."
+    "remarks": "- LAST REGISTRATION\n15 MINS BEFORE CLOSING OR EARLIER IF MAXIMUM NUMBER OF PATIENTS REACHED FOR THAT SESSION. \n- TEMPORARY CLOSURE FROM 15-21\nOCTOBER 2015.",
+    "location": {
+      "lat": 1.377746,
+      "lng": 103.73862
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4652,7 +6038,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "8.30AM-12.30PM",
     "public_holiday": "8.30AM-12.30PM",
-    "remarks": "Closed on Labour Day, Christmas, New Year's Day & Chinese New Year's Day"
+    "remarks": "Closed on Labour Day, Christmas, New Year's Day & Chinese New Year's Day",
+    "location": {
+      "lat": 1.380057,
+      "lng": 103.752243
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4665,7 +6055,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM",
     "sat": "8.30AM-1.00PM,\n2.00PM-5.00PM",
     "sun": "9.00AM-1.00PM",
-    "public_holiday": "9.00AM-1.00PM"
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 1.378346,
+      "lng": 103.754037
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4678,7 +6072,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.30PM",
     "sat": "9.00AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.379759,
+      "lng": 103.748745
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4692,7 +6090,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "9.00AM-1.00PM",
     "public_holiday": "9.00AM-12.00PM",
-    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.398094,
+      "lng": 103.7468279
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4705,7 +6107,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM",
     "sat": "8.30AM-12.00PM",
     "sun": "9.00AM-12.00PM",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38426,
+      "lng": 103.743096
+    }
   },
   {
     "area": "CHOA CHU KANG",
@@ -4718,7 +6124,11 @@
     "operating_hours_mon___fri": "8.30AM-2.00PM,\n7.00PM-9.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.380992,
+      "lng": 103.744864
+    }
   },
   {
     "area": "CITY HALL",
@@ -4732,7 +6142,11 @@
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "LAST REGISTRATION ENDS 30MINS BEFORE CLOSING TIME."
+    "remarks": "LAST REGISTRATION ENDS 30MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.295968,
+      "lng": 103.858967
+    }
   },
   {
     "area": "CITY HALL",
@@ -4746,7 +6160,11 @@
     "sat": "9.00AM-12.00PM",
     "sun": "CLOSED",
     "public_holiday": "CLOSED",
-    "remarks": "Patients to be registered 30 mins before closing"
+    "remarks": "Patients to be registered 30 mins before closing",
+    "location": {
+      "lat": 1.295968,
+      "lng": 103.858967
+    }
   },
   {
     "area": "CITY HALL",
@@ -4759,7 +6177,11 @@
     "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.00PM",
     "sat": "9.00AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.297105,
+      "lng": 103.853681
+    }
   },
   {
     "area": "CITY HALL",
@@ -4772,7 +6194,11 @@
     "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.296653,
+      "lng": 103.8505969
+    }
   },
   {
     "area": "CITY HALL",
@@ -4785,7 +6211,11 @@
     "operating_hours_mon___fri": "8.30AM-12.15PM   \n1.30PM-5.15PM",
     "sat": "8.30AM-12.15PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.292009,
+      "lng": 103.85588
+    }
   },
   {
     "area": "CITY HALL",
@@ -4798,7 +6228,11 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-6.00PM",
     "sat": "8.30AM-1.00PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.295968,
+      "lng": 103.858967
+    }
   },
   {
     "area": "CLEMENTI",
@@ -4811,6 +6245,10 @@
     "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.30PM-5.00PM",
     "sat": "8.30AM-12.30PM",
     "sun": "CLOSED",
-    "public_holiday": "CLOSED"
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.314195,
+      "lng": 103.764019
+    }
   }
 ]
